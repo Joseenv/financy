@@ -8,10 +8,10 @@ import HeaderToggle from '../header/HeaderToggle.vue';
 
 <template>
   <header class="w-full h-12 bg-base-dark">
-    <nav class="max-w-screen-xl h-full flex items-center">
+    <nav class="max-w-screen-xl  h-full flex items-center justify-between px-4">
       <HeaderLogo />
       <HeaderToggle />
-      <HeaderNavigation />
+      <!-- <HeaderNavigation /> -->
     </nav>
   </header>
 </template>

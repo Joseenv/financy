@@ -5,7 +5,10 @@ export default {
     extend: {
       colors: {
         'base-light': '#FFFFFF',
-        'base-dark': '#242424',
+        'base-dark': {
+          60: '#CFCFCF',
+          100: '#242424'
+        },
         'brand-primary': '#E0533D',
         'brand-secondary': '#9DA7D0',
         'brand-tertiary': '#377CC8',
