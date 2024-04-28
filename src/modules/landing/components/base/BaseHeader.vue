@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import HeaderLogo from '../header/HeaderLogo.vue';
-import HeaderNavigation from '../header/HeaderNavigation.vue';
+// import HeaderNavigation from '../header/HeaderNavigation.vue';
 import HeaderToggle from '../header/HeaderToggle.vue';
 
 
